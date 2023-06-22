@@ -5,7 +5,7 @@
 
 
 
-- 🔭 I’m currently working on [Weather App](https://github.com/Shelvin46/head_x.git)
+- 🔭 I’m currently working on [Weather App](https://github.com/Shelvin46/weather_app.git)
 
 - 🌱 I’m currently learning **Flutter,Dart,Firebase,Rest Api**
 
